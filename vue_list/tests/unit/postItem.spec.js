@@ -1,5 +1,5 @@
 import { shallowMount } from '@vue/test-utils';
-import Post from '@/components/postItem.vue'; // Замените путь на актуальный
+import Post from '@/components/postItem.vue';
 import MyButtom from "@/components/UI/myButtom.vue";
 
 describe('Post.vue', () => {
